@@ -24,10 +24,10 @@
 <a href="https://www.facebook.com/sulivan.leite" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 
 <h2> Jogatinando </h2>
-<a href="https://www.jogatinando.com/" target="_blank"><img src="https://i.ibb.co/5ntHrZB/jogatinando-logo.jpg" target="_blank"></a>
+<a href="https://www.jogatinando.com/" target="_blank"><img src="https://i.ibb.co/5ntHrZB/jogatinando-logo.jpg" target="_blank" height="30" width="30"></a>
 
 <h2> Lineternity </h2>
-<a href="https://www.lineternity.com" target="_blank"><img src="https://i.ibb.co/kSr2mM7/lineternity.png" target="_blank" width="50" height="50"></a>
+<a href="https://www.lineternity.com" target="_blank"><img src="https://i.ibb.co/kSr2mM7/lineternity.png" target="_blank" height="30" width="30"></a>
 
 <h2>Linkedin Profissional</h2>
  <a href="https://www.linkedin.com/in/sulivan-leite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
